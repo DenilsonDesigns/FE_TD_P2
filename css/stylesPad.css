@@ -1,0 +1,161 @@
+@media (min-width: 768px) {
+  body {
+    background-color: white;
+    margin-bottom: -7px;
+    margin-left: -7px;
+    margin-right: -7px;
+    margin-top: -7px;
+    font-family: "Roboto", sans-serif;
+  }
+  h2 {
+    margin-top: 0px;
+    text-align: center;
+    padding: 15px 15px 10px;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:visited {
+    color: black;
+  }
+  .header-background {
+    background: rgb(243, 243, 243);
+    padding-bottom: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: 3%;
+    margin-right: -8px;
+  }
+  .bio-text-pic {
+    /* display: inline; */
+    /* float: right; */
+  }
+  .bio-text {
+    /* float: left; */
+    text-align: justify;
+    width: 50%;
+    margin-right: 10%;
+    /* display: inline-block; */
+    float: left;
+  }
+  .profile-pic {
+    width: 40%;
+    /* margin-right: 5%; */
+    /* float: right; */
+    /* display: inline; */
+  }
+  .header-card {
+    background: rgb(243, 243, 243);
+    margin: -8px;
+  }
+  nav {
+    margin-bottom: 30px;
+  }
+  #home-nav {
+    margin-left: 22%;
+  }
+  nav a {
+    display: inline-block;
+    /* background: white; */
+    text-align: center;
+    margin-right: 15%;
+    padding-bottom: 2%;
+    font-weight: bolder;
+  }
+  .portfolio-heading {
+    font-weight: bolder;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: -7px;
+    /* color: grey; */
+  }
+  .card-holder {
+    float: left;
+    background-color: white;
+    margin-right: -7px;
+  }
+  .left {
+    float: left;
+  }
+  .right {
+    float: left;
+  }
+  .bio-card {
+    width: 50%;
+    /* display: inline; */
+  }
+  .bio-card-image {
+    width: 320px;
+    margin-left: 7%;
+  }
+  .bio-card-heading {
+    text-align: center;
+    padding: 7px 0 5px;
+  }
+  .bio-card-text {
+    text-align: center;
+    margin-bottom: 25px;
+    width: 80%;
+    margin-left: 10%;
+  }
+  .contact {
+    background: rgb(243, 243, 243);
+    margin: -8px;
+  }
+  .contact-heading {
+    text-align: center;
+    padding: 1020px 0px 15px;
+    height: 50%;
+  }
+  .contact-text {
+    text-align: justify;
+    width: 80%;
+    margin-left: 10%;
+    padding-bottom: 10px;
+  }
+  .contact-phone,
+  .contact-email {
+    font-size: 16px;
+    text-align: center;
+  }
+  .contact-email {
+    padding-bottom: 50px;
+  }
+  .bold-deets {
+    font-weight: bold;
+    margin-left: 7px;
+  }
+  hr {
+    width: 92%;
+    margin-left: 6%;
+  }
+  #footer {
+    padding-bottom: 8%;
+  }
+  #footer p,
+  #footer div {
+    display: inline;
+  }
+  #footer p {
+    /* display: inline-block; */
+  }
+  #bottom-menu {
+    margin-right: 8%;
+    float: right;
+  }
+  #bottom-menu a {
+    margin-left: 5%;
+    font-weight: bolder;
+  }
+  #student-name {
+    margin-left: 7%;
+    font-weight: bolder;
+  }
+  #back-to-top {
+    margin-left: 27%;
+    font-weight: bolder;
+  }
+  #back-to-top a {
+    display: none;
+  }
+}
