@@ -1,6 +1,5 @@
 @media (min-width: 320px) and (max-width: 767px) {
   body {
-    /* background: green; */
     margin-bottom: -7px;
     font-family: "Roboto", sans-serif;
   }
@@ -11,6 +10,7 @@
   }
   a {
     text-decoration: none;
+    color: black;
   }
   a:visited {
     color: black;
@@ -44,12 +44,6 @@
     font-weight: bolder;
     text-align: center;
     padding: 30px;
-    /* color: grey; */
-  }
-  .card-holder {
-  }
-  .bio-card {
-    /* background: red; */
   }
   .bio-card-image {
     width: 290px;
